@@ -1,10 +1,9 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2019-08-01'
+title: 'Software Engineer'
+company: 'Pulsar Ventures'
+location: 'Singapore'
+range: 'Aug 2019 - July 2021'
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS

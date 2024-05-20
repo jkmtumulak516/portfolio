@@ -1,9 +1,9 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
+date: '2021-08-01'
+title: 'Software Engineer'
+company: 'Shoplinks'
+location: 'Singapore'
+range: 'Aug 2021 - Feb 2023'
 url: 'https://web.northeastern.edu/scout/'
 ---
 

@@ -1,9 +1,9 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
+date: '2023-02-01'
+title: 'Software Engineer'
+company: 'Soulbound'
+location: 'Lewes, DE'
+range: 'Feb 2023 - Oct 2023'
 url: 'https://www.upstatement.com/'
 ---
 
